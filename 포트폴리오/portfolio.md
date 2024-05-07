@@ -26,7 +26,7 @@
 >기술 스택:  
 >Unity / C# / 3ds Max / Substance 3D Painter / Adobe Photoshop
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/shuby-te/Mystic-Ruins/blob/main/README.md) 참고
 
 ---
 
