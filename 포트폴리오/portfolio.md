@@ -38,7 +38,7 @@
 >기술 스택:  
 >Unity / C# / Adobe Photoshop
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/shuby-te/Project/blob/main/README.md) 참고
 
 ---
 
@@ -50,6 +50,6 @@
 >기술 스택:  
 >Unreal Engine / C++ / 3ds Max / Substance 3D Painter / Adobe Photoshop
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/TeamV-CasinoProject/Casino/blob/main/README.md) 참고
 
 ---
